@@ -1,0 +1,1500 @@
+********** 1 **********
+Average Fitness: 0.09264705882352942
+Maximum Fitness: 0.21666666666666665
+Average Pen Distance: 0.44353141158797904
+Maximum Pen Distance: 0.7016390125496755
+Average Dog Distance: 0.620942308858501
+Maximum Dog Distance: 0.8831195561507189
+Average Sheep Distance: 0.34958886937626876
+Maximum Sheep Distance: 0.4401085839383101
+Elapsed Time: 5m 36s
+********** 2 **********
+Average Fitness: 0.0934108527131783
+Maximum Fitness: 0.21666666666666665
+Average Pen Distance: 0.4294805731920776
+Maximum Pen Distance: 0.7093345458462696
+Average Dog Distance: 0.6104342858598892
+Maximum Dog Distance: 0.8831195561507189
+Average Sheep Distance: 0.35757396439755773
+Maximum Sheep Distance: 0.47067485757783434
+Elapsed Time: 5m 39s
+********** 3 **********
+Average Fitness: 0.0985185185185185
+Maximum Fitness: 0.21666666666666665
+Average Pen Distance: 0.41151559083464473
+Maximum Pen Distance: 0.7093345458462696
+Average Dog Distance: 0.5999084243842746
+Maximum Dog Distance: 0.8521674080003513
+Average Sheep Distance: 0.36366835770339284
+Maximum Sheep Distance: 0.537783417608651
+Elapsed Time: 5m 38s
+********** 4 **********
+Average Fitness: 0.1028735632183908
+Maximum Fitness: 0.21666666666666667
+Average Pen Distance: 0.3988094340215981
+Maximum Pen Distance: 0.7503757564946767
+Average Dog Distance: 0.5949941009459726
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3723940307984705
+Maximum Sheep Distance: 0.537783417608651
+Elapsed Time: 5m 40s
+********** 5 **********
+Average Fitness: 0.10300546448087432
+Maximum Fitness: 0.21666666666666667
+Average Pen Distance: 0.40759495872338153
+Maximum Pen Distance: 0.7893691158346066
+Average Dog Distance: 0.591925659319929
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3742060514101159
+Maximum Sheep Distance: 0.537783417608651
+Elapsed Time: 5m 52s
+********** 6 **********
+Average Fitness: 0.1053030303030303
+Maximum Fitness: 0.2333333333333333
+Average Pen Distance: 0.402456103745446
+Maximum Pen Distance: 0.7893691158346066
+Average Dog Distance: 0.5760886731204375
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3760407494879603
+Maximum Sheep Distance: 0.537783417608651
+Elapsed Time: 5m 45s
+********** 7 **********
+Average Fitness: 0.10476190476190476
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4087579139976251
+Maximum Pen Distance: 0.7893691158346066
+Average Dog Distance: 0.5787488152026424
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3715353563291013
+Maximum Sheep Distance: 0.4835596137250313
+Elapsed Time: 6m 2s
+********** 8 **********
+Average Fitness: 0.10949074074074076
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4094025206472256
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.575530019762414
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37197849258096083
+Maximum Sheep Distance: 0.4808016765497081
+Elapsed Time: 5m 47s
+********** 9 **********
+Average Fitness: 0.11103603603603604
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4028013526681984
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5677726102706335
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3764221443766294
+Maximum Sheep Distance: 0.4808016765497081
+Elapsed Time: 6m 4s
+********** 10 **********
+Average Fitness: 0.11081081081081083
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4004556775245318
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5679078403316883
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3773424323844215
+Maximum Sheep Distance: 0.4808016765497081
+Elapsed Time: 5m 45s
+********** 11 **********
+Average Fitness: 0.1161764705882353
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3893386681492723
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5664902742622984
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3776826635527691
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 49s
+********** 12 **********
+Average Fitness: 0.11357142857142857
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.38617131340265265
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5639651770022001
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3754458605407945
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 49s
+********** 13 **********
+Average Fitness: 0.11894977168949775
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.38237141366423444
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5632611420680383
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37128017145118397
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 45s
+********** 14 **********
+Average Fitness: 0.1182017543859649
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3753468826332738
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5583823694099946
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.36927438787585354
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 47s
+********** 15 **********
+Average Fitness: 0.11948051948051949
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3728389653367231
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5472407591832313
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37246434793962374
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 47s
+********** 16 **********
+Average Fitness: 0.11965811965811966
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.37907841936678927
+Maximum Pen Distance: 0.8026930478509576
+Average Dog Distance: 0.5481041473943217
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3736054673768581
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 41s
+********** 17 **********
+Average Fitness: 0.12062499999999998
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3846902419891717
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5533950232120578
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3725049707779581
+Maximum Sheep Distance: 0.4843102181459258
+Elapsed Time: 5m 36s
+********** 18 **********
+Average Fitness: 0.12098765432098767
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3818589395280498
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5562526159365573
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37440771392531197
+Maximum Sheep Distance: 0.5038341245694218
+Elapsed Time: 5m 34s
+********** 19 **********
+Average Fitness: 0.12276422764227644
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3828268902145994
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5564363456243966
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3755488483992278
+Maximum Sheep Distance: 0.5038341245694218
+Elapsed Time: 5m 37s
+********** 20 **********
+Average Fitness: 0.11891385767790263
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3909594889718799
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5561077279620288
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37945485213525587
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 33s
+********** 21 **********
+Average Fitness: 0.11934865900383142
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.393703889070132
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5577997464456158
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37802876518616785
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 36s
+********** 22 **********
+Average Fitness: 0.12015503875968996
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.39590414249006756
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5613550925302968
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.38041707838725003
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 49s
+********** 23 **********
+Average Fitness: 0.12131782945736434
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3958453421278086
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5619632744945121
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37933354021165516
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 36s
+********** 24 **********
+Average Fitness: 0.1244979919678715
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.39718457697515724
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5615629151740243
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.378720245061187
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 47s
+********** 25 **********
+Average Fitness: 0.12107279693486594
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.3986639050504209
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5625816617963338
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37830706929462976
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 35s
+********** 26 **********
+Average Fitness: 0.12265917602996254
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4022285253212599
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5643481279331748
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3775477418518748
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 33s
+********** 27 **********
+Average Fitness: 0.12415730337078651
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4135455370666839
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5695494278349125
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3759838909482164
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 49s
+********** 28 **********
+Average Fitness: 0.12720306513409962
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4076749148697481
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5739626707675759
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3784037052796411
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 45s
+********** 29 **********
+Average Fitness: 0.12500000000000003
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4131593712724193
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5710783464574419
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3733098412911807
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 38s
+********** 30 **********
+Average Fitness: 0.12454212454212457
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.41474434095741974
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5738027473346149
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3724486451867527
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 46s
+********** 31 **********
+Average Fitness: 0.12347670250896059
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.41687443643729405
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5743615271166422
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.372806518686357
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 40s
+********** 32 **********
+Average Fitness: 0.12736842105263158
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4174491436337648
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.582081303632067
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3731481448714876
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 43s
+********** 33 **********
+Average Fitness: 0.12801418439716314
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4165544215330651
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5804453602135544
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3731826417632885
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 42s
+********** 34 **********
+Average Fitness: 0.12585034013605442
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4146690063873796
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5791213412136126
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37496641423586213
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 34s
+********** 35 **********
+Average Fitness: 0.12422680412371134
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4188860358676542
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5765263699636137
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37375371689739123
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 32s
+********** 36 **********
+Average Fitness: 0.12447916666666665
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.42219202204472356
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5775870295859824
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37369361136188006
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 44s
+********** 37 **********
+Average Fitness: 0.12350877192982455
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.4245588208340941
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5760831373651414
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37449352371215466
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 34s
+********** 38 **********
+Average Fitness: 0.12315789473684209
+Maximum Fitness: 0.2833333333333333
+Average Pen Distance: 0.42589294610530914
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.570968310060256
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37376129397263874
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 32s
+********** 39 **********
+Average Fitness: 0.12482638888888888
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4233975237051902
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5697135550690842
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3747157193379922
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 35s
+********** 40 **********
+Average Fitness: 0.12464539007092199
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42627754152129255
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5667375640687274
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3741250055198238
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 36s
+********** 41 **********
+Average Fitness: 0.12285223367697595
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42024704068355545
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5689571558198643
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.3753765395442364
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 48s
+********** 42 **********
+Average Fitness: 0.12371134020618557
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4209321275575154
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5693062620389078
+Maximum Dog Distance: 0.9023388856883644
+Average Sheep Distance: 0.37565909617282356
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 44s
+********** 43 **********
+Average Fitness: 0.12568027210884353
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4167770359350214
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5697027692733142
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37480788122422626
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 40s
+********** 44 **********
+Average Fitness: 0.12636054421768708
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4165541102596821
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5736944972528207
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3724763375482425
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 41s
+********** 45 **********
+Average Fitness: 0.12789115646258503
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4158450481126615
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5742819919329712
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3730929351324607
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 42s
+********** 46 **********
+Average Fitness: 0.1297250859106529
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.41678839545814433
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5754915617398579
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3742569855204725
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 44s
+********** 47 **********
+Average Fitness: 0.1295138888888889
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.41859730356433095
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5692793093203022
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3746527556079066
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 37s
+********** 48 **********
+Average Fitness: 0.13102836879432625
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42132889406456125
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5669816993932421
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3741025669239534
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 39s
+********** 49 **********
+Average Fitness: 0.13070175438596493
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4164139872084095
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5664230191185355
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.375585717326531
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 38s
+********** 50 **********
+Average Fitness: 0.1317543859649123
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4162973873211774
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5701215034585948
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.374311015878558
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 37s
+********** 51 **********
+Average Fitness: 0.13228070175438597
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4149892332630925
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5659625817369565
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37339968706248317
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 32s
+********** 52 **********
+Average Fitness: 0.13213058419243986
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4166740558781679
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5672021642307126
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37430032466885327
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 36s
+********** 53 **********
+Average Fitness: 0.13109965635738832
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.41119190942713146
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5682618426993967
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3724599274316255
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 43s
+********** 54 **********
+Average Fitness: 0.13266666666666668
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.408544558361122
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5665885514781551
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3745441018419132
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 47s
+********** 55 **********
+Average Fitness: 0.13266666666666668
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4081549244248454
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5686406144521006
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3755872359344036
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 54s
+********** 56 **********
+Average Fitness: 0.13333333333333333
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4074688424066332
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5629541779374782
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37584301967461825
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 52s
+********** 57 **********
+Average Fitness: 0.133843537414966
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4115411722673988
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5602713351290753
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3752088229531455
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 51s
+********** 58 **********
+Average Fitness: 0.13142361111111112
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4143189894503762
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5632019506985483
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37632537734264143
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 49s
+********** 59 **********
+Average Fitness: 0.13033333333333336
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4214573867400356
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5618587929873086
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37572041637199705
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 44s
+********** 60 **********
+Average Fitness: 0.129
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4174407681387183
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5587358382951266
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37596254088191683
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 51s
+********** 61 **********
+Average Fitness: 0.13083333333333333
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4163925457063057
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5589033585728187
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3756714413101245
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 58s
+********** 62 **********
+Average Fitness: 0.13061224489795917
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4171985945590584
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5616993234767713
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.37591678520968985
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 33s
+********** 63 **********
+Average Fitness: 0.12996632996632998
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4126911465173285
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5624235270870183
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3759042131170341
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 52s
+********** 64 **********
+Average Fitness: 0.13299999999999998
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.41322387731355414
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5600794848804542
+Maximum Dog Distance: 0.9092322632796793
+Average Sheep Distance: 0.3738214665351858
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 35s
+********** 65 **********
+Average Fitness: 0.13217821782178218
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4125817468570403
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5554716580368633
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37324440449980684
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 37s
+********** 66 **********
+Average Fitness: 0.13283828382838284
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.413388663032226
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5585640217663225
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37460540823248745
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 46s
+********** 67 **********
+Average Fitness: 0.1339869281045752
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4148636640761621
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5563530804202412
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3746346581215863
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 43s
+********** 68 **********
+Average Fitness: 0.13446601941747574
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4122047832321611
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5556802958782183
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3745308086424108
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 47s
+********** 69 **********
+Average Fitness: 0.1328525641025641
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4136883455678411
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5549892593073321
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3779004149226634
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 45s
+********** 70 **********
+Average Fitness: 0.13031746031746033
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4182900515008036
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5495301607128569
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37749496920294046
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 38s
+********** 71 **********
+Average Fitness: 0.1287037037037037
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4171840971065265
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5537838441547922
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37826389322280024
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 33s
+********** 72 **********
+Average Fitness: 0.12885802469135804
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42582278113931327
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5558974194588899
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38045330680201084
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 45s
+********** 73 **********
+Average Fitness: 0.13045454545454546
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42315536272293824
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5604348053812771
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38095524108672024
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 38s
+********** 74 **********
+Average Fitness: 0.1319314641744548
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42778855520258074
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5608449267493022
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3804754435844717
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 39s
+********** 75 **********
+Average Fitness: 0.13132716049382717
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.424549184113364
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5578343448604681
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38053956439533415
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 39s
+********** 76 **********
+Average Fitness: 0.13073394495412846
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42695471050317635
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5582089951879867
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3795078332571321
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 34s
+********** 77 **********
+Average Fitness: 0.13287878787878787
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42590871842541406
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5565716583051152
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3790790382643734
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 41s
+********** 78 **********
+Average Fitness: 0.13484848484848486
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4253910072522779
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5571366210072038
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3796540741311307
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 41s
+********** 79 **********
+Average Fitness: 0.13484848484848486
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4253910072522779
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5571366210072038
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3796540741311307
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 40s
+********** 80 **********
+Average Fitness: 0.13363636363636366
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42508799461633456
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5570131307146954
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37957809786651514
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 48s
+********** 81 **********
+Average Fitness: 0.13454545454545452
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42409200889084847
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5594941856446696
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3795970149257899
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 47s
+********** 82 **********
+Average Fitness: 0.135
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4240916036324321
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5610966223592364
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37883022498828767
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 46s
+********** 83 **********
+Average Fitness: 0.13348214285714285
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4229896252695316
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5612535688598596
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38057397839583945
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 37s
+********** 84 **********
+Average Fitness: 0.13333333333333333
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4211717398711237
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5605959224990175
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3800122301853872
+Maximum Sheep Distance: 0.5060153956336771
+Elapsed Time: 5m 46s
+********** 85 **********
+Average Fitness: 0.134070796460177
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42237295472821074
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5570262800543484
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3796986538851243
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 57s
+********** 86 **********
+Average Fitness: 0.13586309523809523
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4221083296287966
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5566147373511434
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3798353044969171
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 46s
+********** 87 **********
+Average Fitness: 0.1351190476190476
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42786220723870805
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5562139848369752
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3781443795758195
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 50s
+********** 88 **********
+Average Fitness: 0.13422619047619047
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42757952403507854
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5561770966173908
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37815689548964865
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 54s
+********** 89 **********
+Average Fitness: 0.13467261904761907
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42748523299126134
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5570536057639615
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37753123824336315
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 50s
+********** 90 **********
+Average Fitness: 0.13657817109144543
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42436720758738555
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.554239535722295
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3789818043820721
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 6m 0s
+********** 91 **********
+Average Fitness: 0.13813813813813813
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4291579688043793
+Maximum Pen Distance: 0.8437362280846245
+Average Dog Distance: 0.5570742015887339
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37892694673180954
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 46s
+********** 92 **********
+Average Fitness: 0.14036697247706423
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.426694982309232
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5588936832488657
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37809815881757153
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 46s
+********** 93 **********
+Average Fitness: 0.13913690476190474
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4261716716088803
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5550820731232634
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37806030166524984
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 48s
+********** 94 **********
+Average Fitness: 0.1388888888888889
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4271040181093783
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5551446523279803
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37862730676858564
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 47s
+********** 95 **********
+Average Fitness: 0.13723723723723724
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42743969743833504
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5537911231557214
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37835859056898186
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 43s
+********** 96 **********
+Average Fitness: 0.13772727272727273
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4298360765779599
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5539264541829781
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3784890220550269
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 36s
+********** 97 **********
+Average Fitness: 0.13645833333333332
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4296490425311979
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.552748480100315
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37806691877930426
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 37s
+********** 98 **********
+Average Fitness: 0.13702064896755162
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42941562288733487
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5511147732765815
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37750261939349106
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 36s
+********** 99 **********
+Average Fitness: 0.13783783783783785
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.429091180541179
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5474928492218187
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3774735641119989
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 38s
+********** 100 **********
+Average Fitness: 0.13702064896755164
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.424211587311559
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5484316876413793
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3779685454519124
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 44s
+********** 101 **********
+Average Fitness: 0.13775811209439529
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4245580089416724
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5479488529514551
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.378587523665735
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 6m 1s
+********** 102 **********
+Average Fitness: 0.13698830409356724
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42808015189963233
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.546224413526956
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3787209977217911
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 40s
+********** 103 **********
+Average Fitness: 0.1394894894894895
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4280177703033575
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5444887562090013
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37791868332368295
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 46s
+********** 104 **********
+Average Fitness: 0.137987987987988
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.43122197657025746
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5477254747944604
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3793086988397732
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 41s
+********** 105 **********
+Average Fitness: 0.1387878787878788
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4342670320877973
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5507781487804292
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37915914718741317
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 41s
+********** 106 **********
+Average Fitness: 0.1396969696969697
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.43101131172359414
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5482732845626181
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38103649586126626
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 52s
+********** 107 **********
+Average Fitness: 0.14097859327217127
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42966234251628993
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5466491770111164
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38100081686313225
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 48s
+********** 108 **********
+Average Fitness: 0.14060606060606065
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.42864429069310944
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5472898485049539
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38023096595045863
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 53s
+********** 109 **********
+Average Fitness: 0.13938053097345135
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4325343338521888
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5497721733539329
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3791859800977515
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 47s
+********** 110 **********
+Average Fitness: 0.13938053097345135
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4325343338521888
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5497721733539329
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3791859800977515
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 43s
+********** 111 **********
+Average Fitness: 0.13864306784660768
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4327384265445989
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5462681480806123
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37949702048969564
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 53s
+********** 112 **********
+Average Fitness: 0.13988095238095238
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.43418926851678175
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5483931414736877
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.37955026289741645
+Maximum Sheep Distance: 0.5123657672734706
+Elapsed Time: 5m 44s
+********** 113 **********
+Average Fitness: 0.13849557522123895
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4356697729101966
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5496144188272203
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3807233474870059
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 6m 4s
+********** 114 **********
+Average Fitness: 0.1399122807017544
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4340091957886009
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5523793680425657
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3812222343645091
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 48s
+********** 115 **********
+Average Fitness: 0.1391304347826087
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.4335484559100859
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5526912058387556
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.38261444831203034
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 57s
+********** 116 **********
+Average Fitness: 0.14056047197640117
+Maximum Fitness: 0.3166666666666667
+Average Pen Distance: 0.433180287684942
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5506035954701023
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3812882624139293
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 54s
+********** 117 **********
+Average Fitness: 0.14262536873156342
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43226918385594226
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5516820554796755
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3809284013009714
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 44s
+********** 118 **********
+Average Fitness: 0.14234234234234236
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43037940173275147
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5492810682836993
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3817418930356467
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 33s
+********** 119 **********
+Average Fitness: 0.14227272727272727
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4347774426155358
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5504822441869863
+Maximum Dog Distance: 0.8919753942370224
+Average Sheep Distance: 0.3819072850055199
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 40s
+********** 120 **********
+Average Fitness: 0.141304347826087
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.42975032691881265
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5538493396123363
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.3806682953890644
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 41s
+********** 121 **********
+Average Fitness: 0.1401449275362319
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4307563440701374
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5524296802034303
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.38255767881763497
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 43s
+********** 122 **********
+Average Fitness: 0.14051724137931035
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4340868011367513
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5541073161923837
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.38385085553834725
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 41s
+********** 123 **********
+Average Fitness: 0.13974358974358975
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43569006081488626
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5553197064825689
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.3832991888610629
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 39s
+********** 124 **********
+Average Fitness: 0.1391737891737892
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.436344219478922
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5552138153095261
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.3838336276112359
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 37s
+********** 125 **********
+Average Fitness: 0.1392241379310345
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.435476642442876
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5527596128190615
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.3844258823286324
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 43s
+********** 126 **********
+Average Fitness: 0.14072463768115942
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4384476085853541
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5595458259572476
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.38283524857156576
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 41s
+********** 127 **********
+Average Fitness: 0.14094827586206898
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43495255725762766
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.557613204883348
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.3837060698449325
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 41s
+********** 128 **********
+Average Fitness: 0.14246376811594205
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43573401827281394
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5591461712829474
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.38366455334597754
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 37s
+********** 129 **********
+Average Fitness: 0.1418840579710145
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43436478534639195
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5580539910801162
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.3831332554298192
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 36s
+********** 130 **********
+Average Fitness: 0.1423850574712644
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43544508809030336
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5595182820709155
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.382658433020641
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 36s
+********** 131 **********
+Average Fitness: 0.14188034188034196
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43327618268406315
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5594270729225077
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.3828440927120118
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 38s
+********** 132 **********
+Average Fitness: 0.1406162464985995
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4316674472020853
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5594598801826173
+Maximum Dog Distance: 0.9132509679649582
+Average Sheep Distance: 0.38202438764439733
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 59s
+********** 133 **********
+Average Fitness: 0.14364406779661013
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43320651534443466
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5623172397535029
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.3826404500720131
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 46s
+********** 134 **********
+Average Fitness: 0.1450564971751412
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4344360147850922
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5609170470968194
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.38170182522219703
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 31s
+********** 135 **********
+Average Fitness: 0.14519774011299433
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4344099019115476
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5611965319840063
+Maximum Dog Distance: 0.9037308407596406
+Average Sheep Distance: 0.38246901824114754
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 34s
+********** 136 **********
+Average Fitness: 0.14397759103641453
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43666108041913704
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5630235294367412
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38427394302401696
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 37s
+********** 137 **********
+Average Fitness: 0.14439775910364142
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4362216994426682
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.563348471447231
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3846152910522825
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 39s
+********** 138 **********
+Average Fitness: 0.14228650137741047
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4377451745680642
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5643655987794437
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3841830851230229
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 45s
+********** 139 **********
+Average Fitness: 0.14375
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4361240848374656
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5627129342764057
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38503866709937296
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 46s
+********** 140 **********
+Average Fitness: 0.14402777777777775
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43672200341516637
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5610882642869283
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38506529846872684
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 38s
+********** 141 **********
+Average Fitness: 0.1431693989071038
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43796026500602614
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5576881431625518
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3854929118846605
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 36s
+********** 142 **********
+Average Fitness: 0.14490358126721764
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43910489096341837
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5592494418727635
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38592212965255207
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 49s
+********** 143 **********
+Average Fitness: 0.14402777777777775
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43812742187307635
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5588456372691725
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.386833946347971
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 30s
+********** 144 **********
+Average Fitness: 0.1442577030812325
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4393758618048412
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5570027566118319
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3872243683560744
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 35s
+********** 145 **********
+Average Fitness: 0.14425770308123248
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43817270960441296
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5590540194702065
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38693103287090186
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 38s
+********** 146 **********
+Average Fitness: 0.1435261707988981
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4372278168473917
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5595670129134089
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38617873268818764
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 34s
+********** 147 **********
+Average Fitness: 0.14347222222222225
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4407740475082836
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5625409325131319
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3856468124801996
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 42s
+********** 148 **********
+Average Fitness: 0.14347222222222225
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4367410920634986
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5573096599571694
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.3873550978950886
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 35s
+********** 149 **********
+Average Fitness: 0.1442577030812325
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.4403221965210699
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5603336481462097
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38635404786182825
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 46s
+********** 150 **********
+Average Fitness: 0.1454166666666667
+Maximum Fitness: 0.3666666666666667
+Average Pen Distance: 0.43644228031737475
+Maximum Pen Distance: 0.8196898798414133
+Average Dog Distance: 0.5573458174009271
+Maximum Dog Distance: 0.9157956449348162
+Average Sheep Distance: 0.38725203193704494
+Maximum Sheep Distance: 0.5851220032791297
+Elapsed Time: 5m 38s
