@@ -1,0 +1,270 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=24
+#PBS -P CSCI1142
+#PBS -q smp
+#PBS -l walltime=96:00:00
+#PBS -o /mnt/lustre/users/avaljee/trial1/sheepdogai/jobs/mhom-all.out
+#PBS -e /mnt/lustre/users/avaljee/trial1/sheepdogai/jobs/mhom-all.err
+#PBS -m abe
+#PBS -M ameelvaljee@gmail.com
+
+ulimit -s unlimited
+
+module purge
+module load chpc/BIOMODULES anaconda/3
+module load chpc/BIOMODULES roborobo4
+
+eval "$(conda shell.bash hook)"
+
+conda activate roborobo
+
+cd /mnt/lustre/users/avaljee/trial1/sheepdogai
+nproc=`cat $PBS_NODEFILE | wc -l`
+echo nproc is $nproc
+cat $PBS_NODEFILE
+
+
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult.properties mhom-d-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_difficult-map.properties mhom-d-d-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_medium-map.properties mhom-d-m-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-difficult_easy-map.properties mhom-d-e-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy.properties mhom-e-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_difficult-map.properties mhom-e-d-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_medium-map.properties mhom-e-m-20
+
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-easy_easy-map.properties mhom-e-e-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium.properties mhom-m-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_difficult-map.properties mhom-m-d-20
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_medium-map.properties mhom-m-m-20
+
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-01
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-02
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-03
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-04
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-05
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-06
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-07
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-08
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-09
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-10
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-11
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-12
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-13
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-14
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-15
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-16
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-17
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-18
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-19
+SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy python run.py -s config/mhom/mhom-medium_easy-map.properties mhom-m-e-20
+
+conda deactivate
