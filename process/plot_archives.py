@@ -17,12 +17,12 @@ def max_flatten(grid, axis):
     output.append([c[0] for c in plane[r].tolist()])
   return output
 
-def graph(runs=20, generations=200):
+def graph(runs=20, generations=150):
 
   MAX_RUNS = runs
 
   AGGREGATE_PREFIXES = ["ashet", "amhet"]
-  DIFFICULTY_SUFFIXES = ["e", "m", "d"]
+  DIFFICULTY_SUFFIXES = [ "m", "m-e", "m-m", "m-d"]
 
   AGGREGATE_ARCHIVES = {}
 
@@ -110,8 +110,8 @@ def graph(runs=20, generations=200):
       ax = plt.Subplot(fig, inner[i])
       axs["none"][difficulty].append(ax)
   
-  fig.colorbar(axs["amhet"]["m"][0].collections[0], ax=axs["none"]["m"], label="Fitness", orientation="horizontal", location="bottom")
-  plt.savefig("output/allocation-archives.png", bbox_inches='tight', pad_inches=0.2)
+  fig.colorbar(axs["amhet"]["m-e"][0].collections[0], ax=axs["none"]["m-e"], label="Fitness", orientation="horizontal", location="bottom")
+  plt.savefig("output/allocation-archives-med.png", bbox_inches='tight', pad_inches=0.2)
 
   print("Results plotted.")
   return
